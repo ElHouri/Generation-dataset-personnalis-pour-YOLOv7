@@ -22,7 +22,7 @@ import math
 #------------------------------------------------------------------------------------------------------------------------#
      
             
-def crop_image(img: np.ndarray):
+def crop_image(img: np.ndarray, fill_color):
 # Retrieve the height of the image
     height = img.shape[0]
 # Retrieve the width of the image
