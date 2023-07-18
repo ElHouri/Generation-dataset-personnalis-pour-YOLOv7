@@ -18,7 +18,7 @@ Assurez-vous d'installer les dépendances requises en utilisant la commande suiv
 
 Utilisation
 
-1.	Téléchargez le jeu de données brut "dataset_name" et placez-le dans le dossier approprié . Pour télécharger le dataset: http://fsoco.cs.uni-freiburg.de/src/download_boxes_train.php
+1.	Téléchargez le jeu de données brut "dataset_name" et placez-le dans le dossier approprié appelé datasets . Pour télécharger le dataset: http://fsoco.cs.uni-freiburg.de/src/download_boxes_train.php
 
 2.	Exécutez le script "main.py" en utilisant les arguments suivants :
 
