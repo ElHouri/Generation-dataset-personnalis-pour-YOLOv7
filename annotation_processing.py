@@ -96,7 +96,7 @@ def prepare_category(i_start, i_end, image_pairs, blur_percentage, category, out
             img =motion_blur(img, 13, i%2==0)
             blur_count -= 1
 
-        result_img, result_size = crop_image(img)
+        result_img, result_size = crop_image(img, fill_color)
         
         # get json data from file
         json_data = None
