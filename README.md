@@ -1,4 +1,4 @@
-# Generation-dataset-personnalis-pour-YOLOv7
+# Generation-dataset-personnalisé-pour-YOLOv7
 
 Context
 
