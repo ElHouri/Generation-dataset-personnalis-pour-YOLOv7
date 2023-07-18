@@ -28,5 +28,5 @@ Explication des arguments utilisés :
 
 Étape 3: Résultats
 
-L'image est recadrée et floutée.
+L'image est recadrée et floutée. Les petits cones sont cachés par des carrés noirs.
 ![test](./MicrosoftTeams-image%20(2).png)
