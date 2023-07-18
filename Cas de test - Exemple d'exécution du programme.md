@@ -36,16 +36,27 @@ Explication des arguments utilisés :
 Étape 3: Résultats
 Le script générera la structure de dossiers suivante dans le dossier de sortie spécifié : output
 
+
 ├── train
+
 │   ├── images
+
 │   └── labels
+
 ├── test
+
 │   ├── images
+
 │   └── labels
+
 ├── val
+
 │   ├── images
+
 │   └── labels
+
 └── dataset.yaml
+
 
 Par exemple : L'image est recadrée et floutée. Les petits cones sont cachés par des carrés noirs.
 ![test](./MicrosoftTeams-image%20(2).png)
