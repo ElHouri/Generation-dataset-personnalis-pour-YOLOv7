@@ -11,9 +11,13 @@ Le projet consiste à développer un script permettant de convertir un dataset a
 Prérequis
 
 •	Python 3.6 ou version supérieure
+
 •	OpenCV
+
 •	PyYAML
+
 •	tqdm
+
 Assurez-vous d'installer les dépendances requises en utilisant la commande suivante : pip install -r requirements.txt
 
 Utilisation
