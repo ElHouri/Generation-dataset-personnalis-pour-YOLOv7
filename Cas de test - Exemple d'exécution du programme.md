@@ -19,12 +19,19 @@ Ouvrez un terminal et exécutez le script "main.py" avec les arguments appropri�
 python .\main.py --dataset_name fsoco_bounding_boxes_train --output_name output --train_count 0.3 --test_count 0.5  --image_count 200 --blur_count 0.5
 
 Explication des arguments utilisés :
+
 --dataset_name fsoco_bounding_boxes_train: Le nom du jeu de données brut à préparer.
+
 --output_name output: Le nom du dossier de sortie où les données préparées seront enregistrées.
+
 --train_count 0.3: Le pourcentage d'images destinées à l'entraînement (30%).
+
 --test_count 0.5: Le pourcentage d'images destinées aux tests (50%).
+
 --image_count 200: Le nombre d'images à utiliser à partir du jeu de données brut (200 images seront utilisées).
+
 --blur_count 0.5: Le pourcentage d'images avec effet de flou (50% des images auront un effet de flou).
+
 
 Étape 3: Résultats
 
